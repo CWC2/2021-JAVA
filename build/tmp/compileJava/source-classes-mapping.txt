@@ -1,3 +1,5 @@
+Teacher/Snowing/SnowCanvas.java
+ Teacher.Snowing.SnowCanvas
 Teacher/Snowing/MainWin.java
  Teacher.Snowing.MainWin
 Teacher/Car/Car.java
@@ -12,5 +14,5 @@ Teacher/Car/Tester.java
  Teacher.Car.Tester
 Teacher/Snowing/Snow.java
  Teacher.Snowing.Snow
-Teacher/Snowing/SnowCanvas.java
- Teacher.Snowing.SnowCanvas
+Student/Car/CarGUI.java
+ Student.Car.CarGUI
